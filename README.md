@@ -1,3 +1,4 @@
 # Hello-world
-short
+short description
 document the process
+and more a bit about myself
